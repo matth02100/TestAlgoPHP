@@ -12,3 +12,9 @@ A vous de jouer pour le rendre le plus performant possible !
 
 NB: L'utilisation de ressources externes est interdite
 NB2: Passer à PHP7 n'est pas une réponse correcte à l'exercice
+
+Record à battre:
+-------------- Stats --------------
+Peak Memory: 70Mb
+Duration:    0.121 secondes
+-----------------------------------
