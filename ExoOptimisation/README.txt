@@ -16,7 +16,7 @@ NB2: Passer à PHP7 n'est pas une réponse correcte à l'exercice
 Record à battre:
 -------------- Stats --------------
 Peak Memory: 70Mb
-Duration:    0.121 secondes
+Duration:    0.121 seconds
 -----------------------------------
 Nombre de ligne de code réduit de moitié
 -----------------------------------
