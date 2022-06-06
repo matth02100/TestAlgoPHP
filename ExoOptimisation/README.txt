@@ -18,3 +18,5 @@ Record à battre:
 Peak Memory: 70Mb
 Duration:    0.121 secondes
 -----------------------------------
+Nombre de ligne de code réduit de moitié
+-----------------------------------
