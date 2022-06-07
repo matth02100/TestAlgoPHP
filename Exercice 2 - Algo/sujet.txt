@@ -1,0 +1,24 @@
+********************
+****** cou.rt ******
+********************
+
+Dans cet exercice nous souhaitons construire un raccourcisseur d'url. Le concept est donc de réduire avec le minimum de caractères possibles la taille d'une adresse internet.
+
+Voici la description du projet :
+
+- Le fichier index.php sera la page de base qui redirigera l'url raccourcie vers l'url finale du site dans le cas de paramètre reçu de cette façon "http://cou.rt/XXX" (XXX étant le clé
+  représentant l'url raccourcie
+- Dans le cas où on appel l'url http://cou.rt/ nous proposons un formulaire avec un champs texte permettant d'ajouter une URL. Une fois une URL valide saisie on l'ajoute dans le fichier
+  urls.csv et nous affichons l'url raccourcie correspondante.
+- La liste des urls que notre script sera capable de traiter est dans le fichier "urls.csv" dans le répertoire "datas"
+- La class Shortener dans le répertoire lib serra la classe métier qui sera capable de réduire et de retrouver une url réduite
+
+Quelques consignes :
+
+- L'utilisation de bases de données est interdite, vous devrez exploiter le fichier CSV brut
+- Vous êtes libre de structurer votre code comme vous le souhaitez
+- Les urls raccourcies ne devront pas être "prédictibles", ainsi les urls de type http://cou.rt/1, http://cou.rt/2 etc ne sont pas autorisées
+- Veillez à ce que vos algorithmes soient performants
+- L'utilisation de ressources extérieurs est interdite
+- POO grandement appréciée...
+
